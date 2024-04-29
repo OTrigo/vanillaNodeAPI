@@ -1,0 +1,8 @@
+POST http://localhost:3000/api/products
+Content-Type: application/json
+
+{
+   "title":"Jorge Lucas Product",
+   "description":"This is my product",
+   "price": "100"
+}
